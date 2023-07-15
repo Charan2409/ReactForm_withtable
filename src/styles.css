@@ -1,0 +1,23 @@
+.form-container {
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  background-color: darkseagreen;
+}
+
+input {
+  padding: 4px;
+  margin: 5px;
+  border: solid black 2px;
+  border-radius: 8px;
+}
+
+button {
+  background-color: purple;
+  color: white;
+  border-radius: 8px;
+}
+
+.table-container {
+  background-color: darkseagreen;
+}
